@@ -30,7 +30,7 @@
     margin: 0; /* already spaced by the flex gap */
     opacity: 0.7;
   }
-
+  #that is a cool code
   @media (max-width: 600px) {
     .landing-content-wrapper {
       /* from 2rem 2.5rem → 1rem 1rem */
